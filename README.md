@@ -1,3 +1,3 @@
-# Hi, I'm Hiroto Kaku 👋
+# Hi, I'm Hiroto 👋
 
-I'm a UX researcher, software developer, and avid DIYer.
+I'm a UX researcher, software developer, and maker of things.
