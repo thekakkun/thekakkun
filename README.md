@@ -1,6 +1,6 @@
 # Hi, I'm Hiroto 👋
 
-I'm a UX researcher, software developer, and maker of things.
+I'm a software developer, UX researcher, and maker of things.
 
 ## My Repos
 
