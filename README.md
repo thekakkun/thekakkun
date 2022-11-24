@@ -15,3 +15,4 @@ I'm a UX researcher, software developer, and maker of things.
 
 ### Hardware
 - [Callisto](https://github.com/thekakkun/Callisto): A VFD desk clock
+- [Hyperion](https://github.com/thekakkun/Hyperion): A nixie tube clock
