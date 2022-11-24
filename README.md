@@ -4,8 +4,14 @@ I'm a UX researcher, software developer, and maker of things.
 
 ## My Repos
 
+### Front-end stuff:
 - [My homepage](https://github.com/thekakkun/thekakkun.github.io)
-- [Speed Snek](https://github.com/thekakkun/speed-snek): The game of Snake, on speed!
-- [Callisto](https://github.com/thekakkun/Callisto): A VFD desk clock
-- [Various coding challenges](https://github.com/thekakkun/coding_challenges)
+- [Speed Snek](https://github.com/thekakkun/speed-snek): A game, written in TypeScript
+- [Over Yonder](https://github.com/thekakkun/over-yonder/) (in progress): A geography game, powered by D3.js
+
+### Other software:
+- [Various coding challenges](https://github.com/thekakkun/coding_challenges): In Python & rust
 - [Various online course-work](https://github.com/thekakkun/Online-Coursework)
+
+### Hardware
+- [Callisto](https://github.com/thekakkun/Callisto): A VFD desk clock
