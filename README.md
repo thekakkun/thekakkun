@@ -7,7 +7,7 @@ I'm a UX researcher, software developer, and maker of things.
 ### Front-end stuff:
 - [My homepage](https://github.com/thekakkun/thekakkun.github.io)
 - [Speed Snek](https://github.com/thekakkun/speed-snek): A game, written in TypeScript
-- [Over Yonder](https://github.com/thekakkun/over-yonder/) (in progress): A geography game, powered by D3.js
+- [Over Yonder](https://github.com/thekakkun/over-yonder/) (in progress): A geography game, powered by React and D3.js
 
 ### Other software:
 - [Various coding challenges](https://github.com/thekakkun/coding_challenges): In Python & rust
