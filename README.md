@@ -6,8 +6,8 @@ I'm a software developer, UX researcher, and maker of things.
 
 ### Software:
 - [My homepage](https://github.com/thekakkun/thekakkun.github.io)
-- [Speed Snek](https://github.com/thekakkun/speed-snek): A game, written in TypeScript
 - [Over Yonder (in progress)](https://github.com/thekakkun/over-yonder/): A geography game, powered by React and D3.js
+- [Speed Snek](https://github.com/thekakkun/speed-snek): A game, written in TypeScript
 
 ### Hardware:
 - [Callisto](https://github.com/thekakkun/Callisto): A VFD desk clock
