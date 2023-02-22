@@ -1,4 +1,4 @@
-# Hi, I'm Hiroto 👋
+# Hi, I'm Hiroto
 
 I'm a software developer, UX researcher, and maker of things.
 
@@ -6,7 +6,8 @@ I'm a software developer, UX researcher, and maker of things.
 
 ### Software:
 - [My homepage](https://github.com/thekakkun/thekakkun.github.io)
-- [Over Yonder](https://github.com/thekakkun/over-yonder/): A geography game, powered by React and D3.js
+- [Syzygy](https://github.com/thekakkun/syzygy): Very much not ready yet
+- [Over Yonder](https://github.com/thekakkun/over-yonder): A geography game, powered by React and D3.js
 - [Speed Snek](https://github.com/thekakkun/speed-snek): A game, written in TypeScript
 
 ### Hardware:
