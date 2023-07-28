@@ -15,5 +15,5 @@ I'm a software developer, UX researcher, and maker of things.
 - [Hyperion](https://github.com/thekakkun/Hyperion): A nixie tube clock
 
 ### Other:
-- [Various coding challenges](https://github.com/thekakkun/coding_challenges): In Python & rust
+- [Various coding challenges](https://github.com/thekakkun/coding_challenges)
 - [Various online course-work](https://github.com/thekakkun/Online-Coursework)
