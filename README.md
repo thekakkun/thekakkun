@@ -11,4 +11,4 @@
 
 - Other
   - [Various coding challenges](https://github.com/thekakkun/coding_challenges)
-  - [Various online course-work](https://github.com/thekakkun/Online-Coursework)
+  
