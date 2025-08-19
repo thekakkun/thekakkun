@@ -3,7 +3,7 @@
 ## Software
 
 🕸: web 🦀: Rust 🐍: Python
-
+- 🦀[kiiin](https://github.com/thekakkun/kiiin): A dashboard running on a jailbroken Kindle
 - 🕸🦀[Solar-Time Machine](https://github.com/thekakkun/solar-time_machine): A web app to tell time using the location of the sun (🚧 under construction)
 - 🐍[beets-mpd-utils](https://github.com/thekakkun/beets-mpd-utils): [Beets](https://beets.io/) plugins to interface with [MPD](https://www.musicpd.org/)
 - 🦀[rust_slvs](https://github.com/thekakkun/rust_slvs): Rust wrapper for [SolveSpace](https://github.com/solvespace/solvespace)'s geometric constraint solver library
