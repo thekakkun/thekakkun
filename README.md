@@ -3,7 +3,7 @@
 ## Software
 
 🕸: web 🦀: Rust 🐍: Python
-- 🦀[msc_citypage](https://github.com/thekakkun/msc_citypage): Library to retrieve weather conditions and forecasts from the Meteorological Service of Canada ( (🚧 under construction)
+- 🦀[msc_citypage](https://github.com/thekakkun/msc_citypage): Library to retrieve weather conditions and forecasts from the Meteorological Service of Canada
 - 🦀[kiiin](https://github.com/thekakkun/kiiin): A dashboard running on a jailbroken Kindle (🚧 under construction)
 - 🕸🦀[Solar-Time Machine](https://github.com/thekakkun/solar-time_machine): A web app to tell time using the location of the sun (😴 on hiatus)
 - 🐍[beets-mpd-utils](https://github.com/thekakkun/beets-mpd-utils): [Beets](https://beets.io/) plugins to interface with [MPD](https://www.musicpd.org/)
