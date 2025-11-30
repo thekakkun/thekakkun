@@ -3,7 +3,7 @@
 ## Software
 
 🕸: web 🦀: Rust 🐍: Python
-- 🦀[kanoko](https://github.com/thekakkun/kanoko):  Generate a random pattern inspired by the traditional Japanese _kanoko_ pattern 
+- 🦀[kanoko](https://github.com/thekakkun/kanoko): A Rust library for generative art (initially) based off of a traditional Japanese tie-dye pattern
 - 🦀[msc_citypage](https://github.com/thekakkun/msc_citypage): Library to retrieve weather conditions and forecasts from the Meteorological Service of Canada
 - 🦀[kiiin](https://github.com/thekakkun/kiiin): A dashboard running on a jailbroken Kindle
 - 🕸🦀[Solar-Time Machine](https://github.com/thekakkun/solar-time_machine): A web app to tell time using the location of the sun (😴 on hiatus)
