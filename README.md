@@ -17,8 +17,3 @@
 
 - [Callisto](https://github.com/thekakkun/Callisto): A VFD desk clock
 - [Hyperion](https://github.com/thekakkun/Hyperion): A nixie tube clock
-
-## Other
-
-- [Various coding challenges](https://github.com/thekakkun/coding_challenges)
-  
